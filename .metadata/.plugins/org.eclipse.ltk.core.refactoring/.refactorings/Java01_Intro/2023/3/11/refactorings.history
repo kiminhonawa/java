@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;edu.java.scannertest&apos; to &apos;edu.java.scanner.test&apos;&#x0D;&#x0A;- Original project: &apos;Java01_Intro&apos;&#x0D;&#x0A;- Original element: &apos;Java01_Intro/src/edu.java.scannertest&apos;&#x0D;&#x0A;- Renamed element: &apos;Java01_Intro/src/edu.java.scanner.test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;edu.java.scannertest&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;edu.java.scannertest" name="edu.java.scanner.test" qualified="false" references="true" stamp="1679032777880" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,23 @@
+1681717538013	Delete element
+1681717541239	Delete element
+1681778466527	Delete element
+1681796367233	Rename package 'OracleConnect'
+1681796443108	Rename package 'OracleConnect.Jdbc'
+1681796816411	Rename type 'ContactDaoImpl'
+1681797056767	Rename local variable 'name'
+1681797090099	Rename local variable 'email'
+1681797180735	Rename local variable 'name'
+1681797210276	Rename local variable 'phone'
+1681797218444	Rename local variable 'email'
+1681797372202	Rename local variable 'phone'
+1681797386032	Rename local variable 'email'
+1681801173759	Rename field 'MainFrane'
+1681879963292	Delete element
+1681881331816	Rename field 'frmLogIn'
+1681895823869	Rename local variable 'id'
+1681966457763	Encapsulate field 'email'
+1681966579195	Encapsulate field 'selectedemail'
+1681966872827	Rename method 'getSelectedemail'
+1682043182255	Delete element
+1682044165359	Delete element
+1682044167498	Delete element
